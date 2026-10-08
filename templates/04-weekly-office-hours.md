@@ -1,7 +1,7 @@
 # Template 04 · Weekly office hours (with yourself)
 
-> "Figure out which problems matter most, then cook up ideas for solving them — ideally at a resolution of a
-> week or less — and then try those ideas and measure how well they worked." [users, Sep 2022]
+His method, from *What I've Learned from Users*: work out which problems matter most, try ideas for solving
+them at a resolution of a week or less, and measure how well they worked. [users, Sep 2022]
 
 Do this every week. It takes 20 minutes.
 

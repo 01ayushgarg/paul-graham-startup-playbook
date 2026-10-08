@@ -22,6 +22,8 @@
 
 One or two sentences on what you do: ______________________________________
 
+Draft the full pitch with `templates/05-pitch.md`. [investors, convince]
+
 ## 3. Investor list, by expected value
 
 Expected value = likelihood they say yes × how good it would be. [fr] Weight likelihood most. [fundraising]
@@ -45,6 +47,12 @@ Break-even multiple = 1 / (1 − n), where n is the share you give up.
 |---|---|---|---|
 | | | | |
 
-## 5. When to stop
+## 5. Terms to decide before you start
+
+- [ ] Dilution ceiling for this round (his 2013 guide: under 15% in the first phase). [fr]
+- [ ] Board: do the founders keep a majority? He reported it was already common among YC companies after a
+  series A in 2010. [control, Dec 2010]
+
+## 6. When to stop
 
 "Stop fundraising when you start to get a lot of air in the straw." [fr]
