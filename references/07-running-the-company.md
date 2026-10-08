@@ -10,9 +10,8 @@
 > "If you correct course at a high enough frequency, you can be simultaneously decisive at a micro scale and
 > tentative at a macro scale." [users]
 
-Founders misdiagnose: "founders will come in to talk about the difficulties they're having raising money,
-and after digging into their situation, it turns out the reason is that the company is doing badly, and
-investors can tell." [users]
+Founders misdiagnose: they come in to talk about trouble raising money, and the real reason turns out to be
+that the company is doing badly and investors can tell. [users]
 
 ## Founder mode
 
@@ -53,11 +52,16 @@ His fix: office hours, clustered at the end of the day. [makersschedule]
 > equity rather than salary... and (c) only hire people who are either going to write code or go out and get
 > users." [startupmistakes, Oct 2006]
 
-> "If you're the CEO of a fast-growing startup, the mistake you'll make in the next year that you'll regret
-> most will probably be a hiring mistake." [X 2019-04-23](https://x.com/paulg/status/1120694077299855361)
+In a 2019 post he told CEOs of fast-growing startups that the mistake they'll most regret next year "will
+probably be a hiring mistake." [X 2019-04-23](https://x.com/paulg/status/1120694077299855361)
 
-> "You can judge technical ability but not character, so you end up hiring smart jerks." (on founders who
-> start too young) [X 2026-07-17](https://x.com/paulg/status/2078238915094343871)
+In 2005 he was more extreme: "I may be an extremist, but I think hiring people is the worst thing a company
+can do." [start, Mar 2005] The same year he argued that big companies buying startups are "effectively
+fusing recruiting and product development" [hiring, May 2005], which is one reason a small team that ships
+can be worth more than its headcount.
+
+A 2026 post adds a warning for very young founders: they can judge technical ability but not character, so
+they risk hiring "smart jerks." [X 2026-07-17](https://x.com/paulg/status/2078238915094343871)
 
 ## The 18 mistakes, as a checklist [startupmistakes]
 
@@ -75,13 +79,34 @@ half-hearted effort.
 > "Way more startups hose themselves than get crushed by competitors... if I had to pick the worst, it would
 > be ignoring users." [startuplessons, Apr 2006]
 
-> "A hundred times more startups die from poor execution by their founders than are killed by competitors."
-> [X 2026-06-11](https://x.com/paulg/status/2065196968066846946)
+A 2026 post makes the same point with a number: far more startups, a hundred times more in his estimate, die
+from their founders' poor execution than are killed by competitors.
+[X 2026-06-11](https://x.com/paulg/status/2065196968066846946)
 
 > "If your product seems finished, there are two possible explanations: (a) it is finished, or (b) you lack
 > imagination. Experience suggests (b) is a thousand times more likely." [startuplessons]
 
 > "A startup should be able to explain in one or two sentences exactly what it does." [startuplessons]
+
+## How to apply: the weekly loop (our suggestion)
+
+His [users] method as a routine. The cadence is from him ("a week or less"); the format is ours, and it's
+`templates/04-weekly-office-hours.md`.
+
+1. **Monday: name the three problems** and rate each: moderate, doesn't matter, or will kill the company.
+   [users]
+2. **Pick one experiment per problem that matters**, small enough to finish in a week. [users]
+3. **Protect maker time:** cluster meetings, ideally at the end of the day. [makersschedule]
+4. **Friday: measure** each experiment, and check the growth number (chapter 03).
+5. **Before any hire, ask** whether it writes code or gets users, and whether you're default alive.
+   [startupmistakes, aord]
+
+## Failure modes
+
+- **Fixing the stated problem, not the real one.** [users]
+- **Founder mode as an excuse** not to delegate. [foundermode, note 3]
+- **Meetings scattered through the day.** [makersschedule]
+- **Hiring ahead of growth.** [aord, start]
 
 **Checks to run:**
 1. What are your top three problems, and which one kills the company if ignored?

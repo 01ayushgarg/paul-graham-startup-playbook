@@ -60,8 +60,8 @@
 > "So it's easy to launch a devastating attack on a new idea, and anyone who does will seem clever to those
 > who don't understand this asymmetry." [newideas]
 
-> "If you have a mocking personality, people won't bring you new ideas."
-> [X 2022-12-25](https://x.com/paulg/status/1607148364596121600)
+He has also posted that people with a mocking personality don't get brought new ideas.
+[X 2022-12-25](https://x.com/paulg/status/1607148364596121600)
 
 ## Judge early work by its potential
 
@@ -70,6 +70,14 @@
 > [early, Oct 2020]
 
 > "It can help if you focus less on where you are and more on the rate of change." [early]
+
+## How to apply (our suggestion)
+
+1. **Before a big decision, list your beliefs about the market** and mark which ones most of your peers
+   share. [say, think]
+2. **For each widely shared one, ask "Is that true?"** silently, and look for evidence. [think]
+3. **For an idea you're inclined to mock, switch polarity** and list ways it could work. [early, newideas]
+4. **Answer criticism at DH4 or above**, and find the central point before replying. [disagree]
 
 **Checks to run:**
 1. What do you believe about your market that most of your peers don't?

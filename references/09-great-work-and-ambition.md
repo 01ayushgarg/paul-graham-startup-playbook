@@ -67,8 +67,24 @@
 
 > "Prestige is just fossilized inspiration." [love]
 
-> "With ambition, you tend to get one step below what you aim for. So unless you try to be the best, you
-> won't even be good." [X 2022-12-20](https://x.com/paulg/status/1605321011012026369)
+In a 2022 post he says that with ambition you tend to land one step below your aim: "So unless you try to be
+the best, you won't even be good." [X 2022-12-20](https://x.com/paulg/status/1605321011012026369)
+
+## What to do, in one line
+
+In *What to Do* (2025) he answers the big question briefly: "One should help people, and take care of the
+world." [do, Mar 2025] And beyond those duties, "make good new things", which he calls the best proof that
+one has thought well. [do] Our reading: for a founder, this is the same compass as *Be Good* [good] with an
+emphasis on the new.
+
+## How to apply (our suggestion)
+
+1. **Score your current work** 0 to 2 on aptitude, interest and scope. [greatwork]
+2. **Name the hard core** of your main problem and the share of last week spent on it. [hwh]
+3. **Ask his procrastination question** and write the answer down: what's the best thing you could be
+   working on, and why aren't you? [procrastination]
+4. **If two of the three scores are low for six months, switch** (our threshold; his rule is to switch if
+   you work hard without good results). [hwh]
 
 ## Where you live
 
