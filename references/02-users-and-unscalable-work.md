@@ -5,21 +5,23 @@
 > "In a sense there's just one mistake that kills startups: not making something users want."
 > [startupmistakes, Oct 2006]
 
-> "Understand your users. That's the key." [13sentences, Feb 2009]
+His 2005 version: "In nearly every failed startup, the real problem was that customers didn't want the
+product." [start, Mar 2005] YC's motto, chosen a month after it started, is the positive form: make
+something people want. [good, Apr 2008]
 
 > ""Make something people want" is the destination, but "Be relentlessly resourceful" is how you get
 > there." [relres, Mar 2009]
 
-The wealth rectangle: "one side is the number of users and the other is how much you improve their lives...
-The second dimension is the one you have most control over." [13sentences]
+The wealth rectangle: one side is the number of users, the other how much you improve their lives, and he
+says the second is the one you control most. [13sentences, Feb 2009]
 
 ## A few who love you beat many who are lukewarm
 
 > "It's better to make a few people really happy than to make a lot of people semi-happy." (a principle PG
 > credits to Paul Buchheit) [13sentences]
 
-> "Initially you have to choose between satisfying all the needs of a subset of potential users, or
-> satisfying a subset of the needs of all potential users. Take the first." [13sentences]
+Choose between all the needs of some users and some of the needs of all users: "Take the first."
+[13sentences]
 
 > "As long as you've made something that a few users are ecstatic about, you're on the right track."
 > [die, Aug 2007]
@@ -41,8 +43,8 @@ laptop" and set them up on the spot." [ds]
 
 > "It's not the product that should be insanely great, but the experience of being your user." [ds]
 
-Wufoo "sent each new user a hand-written thank you note" [ds]. "Try making your customer service not merely
-good, but surprisingly good." [13sentences]
+Wufoo sent each new user a hand-written thank-you note. [ds] He suggests making customer service
+surprisingly good, not merely good. [13sentences]
 
 ## The unscalable toolkit [ds]
 
@@ -74,22 +76,36 @@ incrementally expanded into the whole project, and then get that done as soon as
 
 ## Talk to users about problems, not features
 
-> "When you go talk to users, don't (just) ask them what features they want. Ask them what problems they
-> have." [X 2026-08-04](https://x.com/paulg/status/2084655582938808691)
-
-> "The users who complain about the flaws in your product may seem annoying, but they are on the whole
-> probably your most valuable users." [X 2026-06-24](https://x.com/paulg/status/2069821293596148004)
-
-> "Explain what you've learned from users." His best per-word advice for YC applicants. [users, Sep 2022]
+"Explain what you've learned from users" is, he says, the best advice per word for YC applicants. [users,
+Sep 2022] In recent posts he adds two refinements: ask users what problems they have, not just what
+features they want [X 2026-08-04](https://x.com/paulg/status/2084655582938808691), and treat users who
+complain about flaws as probably your most valuable. [X 2026-06-24](https://x.com/paulg/status/2069821293596148004)
 
 ## Own the user relationship
 
-> "Avoid letting another company insert themselves between you and your users."
-> [X 2021-08-03](https://x.com/paulg/status/1422638682134261763)
+He warns against letting another company insert itself between you and your users
+[X 2021-08-03](https://x.com/paulg/status/1422638682134261763), and says a startup that can only reach users
+through deals with big companies will by default "run out of money and die while waiting for them to make
+up their minds." [X 2020-02-23](https://x.com/paulg/status/1231575395679526913)
 
-> "If you start a startup that can only reach users by doing deals with big companies, the default outcome
-> will be that you run out of money and die while waiting for them to make up their minds."
-> [X 2020-02-23](https://x.com/paulg/status/1231575395679526913)
+## How to apply (our suggestion)
+
+A first-100-users plan built on [ds]. The numbers are ours.
+
+1. **List 30 people** who have the problem, by name. If you can't, go back to chapter 01.
+2. **Recruit them by hand**: message, call, visit. Expect most to say no. [ds]
+3. **Set up the first ten yourself**, the Collison way: on the spot, on their machine. [ds]
+4. **Pick one user to consult for** and build what they need this week. [ds]
+5. **Write down what you learned** from users every week, and what you changed because of it. [users]
+6. **Repeat until growth comes from somewhere other than you.** Then automate the bottlenecks. [ds]
+
+## Failure modes
+
+- **Waiting for users to come to you.** [ds]
+- **The Big Launch** as a substitute for recruiting. [ds]
+- **Surveys instead of conversations.** Our reading: you learn problems from watching and talking, not from
+  feature votes. [X 2026-08-04]
+- **A middleman** between you and your users. [X 2021-08-03]
 
 **Checks to run:**
 1. Can you name ten users who would be upset if you shut down tomorrow?
